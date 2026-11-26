@@ -84,3 +84,11 @@ Built and locally verified. NOT committed beyond init's root commit, NOT pushed,
 - Negative test (temp copy in `/tmp` with the entry padded to 355 chars): exits 1, stderr `gate check failed: length 355 chars outside 1–320`, no output file written — the fail-loud path works.
 
 **Status after revision:** revised and re-verified. Still NOT committed, NOT pushed, NOT bundled, NOT submitted — parent handles that.
+
+## Submission
+
+- Submission: 01a215f6-880d-7732-b514-85bdb174f601
+- Commit: c12217c9aadc91090ba3f9147a50165be84b42ef
+- Repo: https://github.com/lukmannurh/u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7
+- Claim code: AF-BEAEB-ENGSM-1FAYX-015TM
+- Submitted: 2026-11-26T03:47:05.891Z (parent pipeline)
